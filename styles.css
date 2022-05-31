@@ -1,0 +1,9 @@
+* {
+    background-color: #1f618d;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+}
